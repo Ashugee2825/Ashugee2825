@@ -18,7 +18,7 @@ A passionate **Computer Science & Engineering** graduate from Patna, India, with
 
 | Degree | Institution | Duration | Score |
 |--------|-------------|----------|-------|
-| **Post Graduate Diploma in Advanced Computing** | CDAC Noida | 03/2024 – 02/2025 | Ongoing |
+| **Post Graduate Diploma in Advanced Computing** | CDAC Noida | 03/2024 – 03/2025 | 66% |
 | **Full Stack Web Development** | NITTTR Bhopal | 06/2023 – 10/2024 | Completed |
 | **B.Tech Computer Science & Engineering** | IPS College of Technology Management, Gwalior | 07/2019 – 05/2023 | **85%** |
 | **Intermediate in Science** | T.P.S College, Patna-7 | 06/2016 – 05/2018 | Completed |
@@ -26,7 +26,7 @@ A passionate **Computer Science & Engineering** graduate from Patna, India, with
 
 ## 💼 Work Experience
 
-### 🏢 **NITTTR Bhopal** (06/2023 – 10/2024)
+### 🏢 **NITTTR Bhopal** (07/2023 – 10/2024)
 **Role**: Software Developer Trainee
 - Developed **Monthly Progress Report System** - Transformed manual reporting into web-based platform
 - Built **PhD and PG Admission Portal** - Streamlined application management and review processes
@@ -53,10 +53,10 @@ A passionate **Computer Science & Engineering** graduate from Patna, India, with
 
 ## �� Current Learning & Internships
 
-### �� **Kodnest Learning Platform**
+### �� **Kodnest Learning Platform** 
 Currently learning advanced programming concepts and industry best practices
 - **Focus Areas**: Advanced Java, Spring Boot, ReactJS, Full Stack Development
-- **Projects**: Building real-world applications with modern technologies
+- **Projects**: Building real-world applications with modern technologies 
 
 ### 🏢 **ServiceNow Internship**
 Currently interning at ServiceNow to gain hands-on experience in:
