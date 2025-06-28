@@ -19,7 +19,7 @@ A passionate **Computer Science & Engineering** graduate from Patna, India, with
 | Degree | Institution | Duration | Score |
 |--------|-------------|----------|-------|
 | **Post Graduate Diploma in Advanced Computing** | CDAC Noida | 03/2024 – 03/2025 | 66% |
-| **Full Stack Web Development** | NITTTR Bhopal | 06/2023 – 10/2024 | Completed |
+| **Full Stack Web Development** | NITTTR Bhopal | 06/2023 – 10/2024 | 90% |
 | **B.Tech Computer Science & Engineering** | IPS College of Technology Management, Gwalior | 07/2019 – 05/2023 | **85%** |
 | **Intermediate in Science** | T.P.S College, Patna-7 | 06/2016 – 05/2018 | Completed |
 | **High School Certificate** | Keshav Saraswati Vidya Mandir, Saink School, Patna | 03/2012 – 04/2016 | **7.8 CGPA** |
