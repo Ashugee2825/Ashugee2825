@@ -358,7 +358,7 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 
 - **Phone**: +91 8340584879
 - **Email**: ashutoshdon2825@gmail.com, ashutoshkumargee@gmail.com
-- **Location**: Chhoti Pahari, near Govt. School Patna-7, INDIA
+- **Location**: Chhoti Pahari, Patna-7, INDIA
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashugee2825&style=flat-square&color=blue" alt="Profile Views"/>
